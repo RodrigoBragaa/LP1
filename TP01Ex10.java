@@ -1,5 +1,9 @@
 import java.util.Scanner;
-
+/**
+ * Nomes: Rodrigo Braga e João Vitor Pedral
+ * 10. Entrar via teclado com o valor de uma temperatura em graus Celsius, 
+ * calcular e exibir sua temperatura equivalente em Fahrenheit.
+ */
 public class TP01Ex10 {
     
     public static void main(String[] args){
