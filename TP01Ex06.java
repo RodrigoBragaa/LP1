@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/**
+ * Nomes: Rodrigo Braga e João Vitor Pedral
+ * 6. Calcular e exibir a média aritmética de quatro valores quaisquer que serão digitados.
+ */
 public class TP01Ex06 {
     
     public static void main(String[] args){
