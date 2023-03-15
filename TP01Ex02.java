@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * @author Rodrigo Braga e João Vitor Pedral
+ * Nomes: Rodrigo Braga e João Vitor Pedral
  * 2. Calcular e exibir a área de um quadrado, a partir do valor de sua aresta que será digitado.
  */
 public class TP01Ex02 {
