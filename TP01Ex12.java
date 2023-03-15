@@ -1,7 +1,7 @@
 import java.util.Scanner;
 /**
  * Nomes: Rodrigo Braga e João Vitor Pedral
- * 11. Calcular e exibir o volume de um cone a partir dos 
+ * 12. Calcular e exibir o volume de um cone a partir dos 
  * valores da altura e do raio da base que serão digitados.
  */
 public class TP01Ex12 {
