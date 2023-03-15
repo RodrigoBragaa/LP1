@@ -1,5 +1,8 @@
 import java.util.Scanner;
-
+/**
+ * Nomes: Rodrigo Braga e João Vitor Pedral
+ * 7. Calcular e exibir a média geométrica de dois valores quaisquer que serão digitados.
+ */
 public class TP01Ex07 {
 
 	public static void main(String[] args) {
