@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * @author Rodrigo Braga e João Vitor Pedral
+ * Nomes: Rodrigo Braga e João Vitor Pedral
  * 4. A partir dos valores da base e altura de um triângulo, calcular e exibir sua área.
  */
 public class TP01Ex04 {
