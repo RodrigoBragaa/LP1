@@ -1,6 +1,6 @@
 import java.util.Scanner;
 /**
- * @author Rodrigo Braga e João Vitor Pedral
+ * Nomes: Rodrigo Braga e João Vitor Pedral
  * 1. Entrar via teclado com a base e a altura de um retângulo, calcular e exibir sua
 área.
  */
