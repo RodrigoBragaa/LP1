@@ -1,6 +1,7 @@
 ## TP01
 
 ## Nome: Rodrigo Braga Guimarães Brito
+## Nome: João Vitor Pedral do Nascimento
 
 ## Instruções:
 - Fazer em dupla
